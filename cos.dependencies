@@ -1,13 +1,21 @@
 [
- {
-   "repository": "android_kernel_samsung_tuna",
-   "target_path": "kernel/samsung/tuna",
-   "branch": "cm-10.1"
- },
- {
-   "repository": "android_device_samsung_tuna",
-   "target_path": "device/samsung/tuna",
-   "branch": "cm-10.1"
- }
+    {
+        "project": "CyanogenMod",
+        "repository": "android_kernel_samsung_tuna",
+        "target_path": "kernel/samsung/tuna",
+        "branch": "cm-10.1"
+    },
+    {
+        "project": "CyanogenMod",
+        "repository": "android_device_samsung_tuna",
+        "target_path": "device/samsung/tuna",
+        "branch": "cm-10.1"
+    },
+    {
+        "project": "ChameleonOS",
+        "repository": "android_vendor_samsung_toro",
+        "target_path": "vendor/samsung/toro",
+        "branch": "jellybean-mr1"
+    }
 ]
 
